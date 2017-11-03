@@ -1,13 +1,13 @@
 package users;
 
 public class Users {
-	private String UserID;
-	private String UserFName;
-	private String UserLName;
-	private String Age;
-	private String Gender;
-	private String Occupation;
-	private String num;
+	public String UserID;
+	public String UserFName;
+	public String UserLName;
+	public String Age;
+	public String Gender;
+	public String Occupation;
+	public String num;
 
 	public Users() {
 		this.UserID = "";
